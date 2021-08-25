@@ -1,2 +1,3 @@
 # SQL-Code-Examples
-The examples illustrate me creating, inserting data, and querying of databases.
+Contains advanced coursework completed in my Database design and implementation course
+The examples illustrate me creating, inserting data, and querying databases.
